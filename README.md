@@ -17,4 +17,4 @@ Se desejar, utilize os botões das moedas mais comuns para preencher automaticam
 O conversor utiliza as taxas de conversão da biblioteca forex_python, que são atualizadas diariamente.
 Certifique-se de inserir as moedas em seus códigos ISO de três letras (exemplo: USD, EUR, BRL, CAD, etc.).
 O conversor pode apresentar erros de conexão caso haja problemas com a API da biblioteca forex_python. Neste caso, tente novamente mais tarde.
-Fique à vontade para modificar da maneira que preferir;
+Fique à vontade para modificar da maneira que preferir;;
