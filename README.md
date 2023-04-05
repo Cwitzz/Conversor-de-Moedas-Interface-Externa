@@ -6,7 +6,7 @@ Como Utilizar:
 
 Baixe o arquivo "conversor_moedas.py"
 Certifique-se de ter a biblioteca forex_python instalada. Caso não tenha, instale utilizando o comando no terminal: pip install forex-python<br>
-Execute o arquivo "conversor_moedas.py" em um ambiente Python.
+Execute o arquivo "conversor_moedas.py" em um ambiente Python..
 Insira o valor que deseja converter, a moeda de origem e a moeda de destino.
 Clique no botão "Converter" para obter o resultado.
 Se desejar, utilize os botões das moedas mais comuns para preencher automaticamente os campos.
